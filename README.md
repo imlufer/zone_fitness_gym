@@ -20,9 +20,9 @@ Puedes visualizar el proyecto abriendo el archivo `index.html` en tu navegador w
 - (FUNCIONES BACK END PARA EL FORMULARIO: PHP Y MYSQL, NO ESTAN INCLUIDAS EN ESTA VISTA)
 
 ## Capturas de Pantalla
-![Vista previa de PiuraPlants](img/captura.png)
-![Vista previa de PiuraPlants](img/captura2.png)
-![Vista previa de PiuraPlants](img/captura3.png)
-![Vista previa de PiuraPlants](img/captura4.png)
+![Vista previa de ZoneFitness](img/captura.png)
+![Vista previa de ZoneFitness](img/captura2.png)
+![Vista previa de ZoneFitness](img/captura3.png)
+![Vista previa de ZoneFitness](img/captura4.png)
 
 ¡Gracias por visitar Zone Fitness GYM!
